@@ -1,0 +1,10 @@
+gradio==3.27.0
+ipython==8.12.0
+matplotlib==3.6.2
+numpy==1.23.5
+pandas==1.5.2
+Pillow==9.5.0
+protobuf==4.22.3
+seaborn==0.12.2
+tensorflow==2.11.0
+tensorflow_datasets==4.9.2
