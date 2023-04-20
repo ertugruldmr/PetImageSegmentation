@@ -1,0 +1,5 @@
+
+We can't push the model because  size of the model exceeded the github file limit. 
+You can download the model from this link (study.ipynb):
+	-> [Colab Source Code For code reading] https://colab.research.google.com/drive/1ddpKzZnIP4QxY6oCQ37BxeUq07bqIECa
+	-> [File Link for download] https://huggingface.co/spaces/ErtugrulDemir/PetImageSegmentation/resolve/main/fine_tuned_VGG16.h5
