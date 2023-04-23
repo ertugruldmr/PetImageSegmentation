@@ -24,8 +24,8 @@
   - [__Explanation of the study__](#explanation-of-the-study)
     - [__(A) Dependencies__](#a-dependencies)
     - [__(B) Dataset__](#b-dataset)
-    - [__(C) Modelling__](#e-modelling)
-    - [__(D) Deployment as web demo app__](#g-deployment-as-web-demo-app)
+    - [__(C) Modelling__](#c-modelling)
+    - [__(D) Deployment as web demo app__](#d-deployment-as-web-demo-app)
   - [__Licance__](#license)
   - [__Connection Links__](#connection-links)
   - NOTE: The model file exceeded limitations. you can download it from this [link]().
